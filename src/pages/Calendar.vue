@@ -41,7 +41,9 @@
   </q-page>
 </template>
 
-<script>import {
+<script>
+
+import {
   QCalendarMonth,
   addToDate,
   parseDate,

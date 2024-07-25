@@ -112,7 +112,9 @@ module.exports = configure(function (/* ctx */) {
       // directives: [],
 
       // Quasar plugins
-      plugins: [],
+      plugins: [
+        'AppFullscreen'
+      ]
     },
 
     // animations: 'all', // --- includes all animations
@@ -124,9 +126,11 @@ module.exports = configure(function (/* ctx */) {
       //   rootComponent: 'src/App.vue',
       //   router: 'src/router/index',
       //   store: 'src/store/index',
-      registerServiceWorker: "src-pwa/register-service-worker",
-      serviceWorker: "src-pwa/custom-service-worker",
-      pwaManifestFile: "src-pwa/manifest.json",
+      // registerServiceWorker: "src-pwa/register-service-worker",
+      // serviceWorker: "src-pwa/custom-service-worker",
+      pwaRegisterServiceWorker: 'src-pwa/register-service-worker',
+      pwaServiceWorker: 'src-pwa/custom-service-worker',
+      pwaManifestFile: 'src-pwa/manifest.json',
       electronMain: "src-electron/electron-main",
       electronPreload: "src-electron/electron-preload",
     },

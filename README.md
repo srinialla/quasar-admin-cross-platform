@@ -4,7 +4,7 @@
 
 Free Quasar Admin Template based on Vue.js and used Quasar Framework.
 
-## Site: [https://next-quasar-admin.netlify.app/](https://next-quasar-admin.netlify.app/)
+## Site: [https://aquamarine-clafoutis-733876.netlify.app/](https://aquamarine-clafoutis-733876.netlify.app/)
 
 # Support
 

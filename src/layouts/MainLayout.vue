@@ -30,7 +30,7 @@
             color="white"
             icon="fab fa-github"
             type="a"
-            href="https://github.com/srinialla/quasar-admin"
+            href="https://github.com/srinialla/quasar-admin-cross-platformquasar-admin"
             target="_blank"
           >
           </q-btn>
@@ -364,6 +364,7 @@ export default defineComponent({
   setup() {
     const leftDrawerOpen = ref(false);
     const $q = useQuasar();
+    console.log($q);
 
     return {
       $q,
