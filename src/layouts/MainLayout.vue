@@ -30,7 +30,7 @@
             color="white"
             icon="fab fa-github"
             type="a"
-            href="https://github.com/srinialla/quasar-admin-cross-platformquasar-admin"
+            href="https://github.com/srinialla/quasar-admin-cross-platform"
             target="_blank"
           >
           </q-btn>
