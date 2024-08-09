@@ -31,7 +31,7 @@ npm run dev
 ### Start the app for differnt platforms in development mode
 
 ```bash
-npm run dev:desktop
+npm run dev:pwa
 npm run dev:desktop
 npm run dev:android
 npm run dev:ios
