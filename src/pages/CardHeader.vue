@@ -20,7 +20,7 @@
             <q-item-label caption lines="2">
               <span class="text-weight-bold">Janet</span>
               -- I'll be in your neighborhood doing errands this
-              weekend. Do you want to grab brunch?
+               weekend. Do you want to grab brunch?
             </q-item-label>
           </q-item-section>
 
